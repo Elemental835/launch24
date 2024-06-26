@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+  </head>
+  <body>
+    <div id="tswcontainer"> <img src="images/logo.png" alt="my" title="logo" longdesc="my logo"
+        style="width: 67px; height: 71px;">
+      <div id="tswfooter">
+        <div id="tswcontproper">
+          <h1>ABOUT ME</h1>
+        </div>
+        <div>This section is about me. I am 14 years old and currently going
+          into high school. I am joining the soccer team and chess team for my
+          high school next year.</div>
+        <div><br>
+        </div>
+        <div>My hobbies. I enjoy hanging out with my friends, playing video
+          games, I play chess, I play soccer, I play basketball, I workout, and
+          I also read a bit, I am currently reading Lord of the Flies. I am also
+          interested in debate but my high school doesn't have a debate team.</div>
+        <div><br>
+        </div>
+        &nbsp;</div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div> A soccer picture since I play soccer. </div>
+      <div>&nbsp; <img src="images/r.jfif" alt="" title="Soccer" longdesc="A soccer clash between 2 players"
+          style="width: 211px; height: 159px;"><!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
+</html>

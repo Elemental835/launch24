@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>page2</title>
+    <style type="text/css">
+body {
+  font-family: "Comic Sans MS";
+}
+
+</style></head>
+  <body>
+    <p><a href="file:///C:/Users/druco/Documents/MyWebsite/home.html"><img src="images/logo.png"
+          alt="profile" title="logo" longdesc="my logo" style="width: 69px; height: 76px;"></a></p>
+    <h1><b>MY HOMETOWN</b></h1>
+    &nbsp;&nbsp;&nbsp; <br>
+    My hometown is Auburn MA. It is small, at only 16.2 miles squared and
+    ~16,000 residents. Auburn was settled in 1778 and our high school is the
+    Auburn Rockets because the first rocket that was shot was shot from
+    Pakachoag Hill. Auburn also has it's own flag and seal, with the flag just
+    being a house with "TOWN OF AUBURN" at the top and the seat being an eagle
+    with the same thing.<br>
+    <div><br>
+    </div>
+    <div><br>
+      <p>&nbsp;</p>
+    </div>
+    <div id="tswsidecol">
+      <div id="tswsideproper">
+        <p>This is all about what I do for fun/my hobbies.</p>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div id="tswfooter">
+      <p> A video of Auburn.</p>
+      <br>
+    </div>
+    <p></p>
+  </body>
+</html>
